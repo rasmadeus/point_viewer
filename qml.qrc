@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/main.qml</file>
+        <file>res/Screen.qml</file>
+        <file>res/Progress.qml</file>
+    </qresource>
+</RCC>
